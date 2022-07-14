@@ -14,6 +14,7 @@ Don't worry about them any more.
 * TBR: To Be Reviewed. (提示管理员可以进行 Code Review) 
 * TL;DR: Too Long; Didn't Read. (代码太长, 不方便 Code Review)
 * TBD: To Be Done(or Defined/Discussed/Decided/Determined). (用于表示代码开发状态, 例如：完成，讨论中，延期等)
+* NTC: Nothing To Change
 
 ## Contributing
 
